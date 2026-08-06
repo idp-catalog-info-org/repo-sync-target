@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sync-to-source
+  description: A simple test service component for basic integration tests
+  tags:
+    - test
+    - service
+spec:
+  type: service
+  lifecycle: experimental
+  owner: user:default/test-user
