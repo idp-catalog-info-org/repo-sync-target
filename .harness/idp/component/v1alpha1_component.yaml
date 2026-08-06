@@ -1,0 +1,10 @@
+apiVersion: harness.io/v1
+kind: Component
+type: service
+identifier: v1alpha1_component
+name: v1alpha1_component
+owner: user:test_user
+spec:
+  lifecycle: experimental
+metadata:
+  description: Uses backstage.io/v1alpha1 — SHOULD be ingested
