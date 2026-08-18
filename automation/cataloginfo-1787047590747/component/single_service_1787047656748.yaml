@@ -1,0 +1,13 @@
+apiVersion: harness.io/v1
+kind: Component
+type: service
+identifier: single_service_1787047656748
+name: single_service_1787047656748
+owner: user:test_user
+spec:
+  lifecycle: experimental
+metadata:
+  description: A simple test service component for basic integration tests
+  tags:
+  - test
+  - service
