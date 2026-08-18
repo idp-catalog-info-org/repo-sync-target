@@ -1,0 +1,13 @@
+apiVersion: harness.io/v1
+kind: Component
+type: service
+identifier: sync_to_source_1787047684293
+name: sync_to_source_1787047684293
+owner: user:test_user
+spec:
+  lifecycle: experimental
+metadata:
+  description: A simple test service component for basic integration tests
+  tags:
+  - test
+  - service
