@@ -1,0 +1,8 @@
+apiVersion: harness.io/v1
+kind: group
+type: team
+identifier: idp_tm_1792655668599_t03imp
+orgIdentifier: idp_tm_1792655668599_o1
+projectIdentifier: idp_tm_1792655668599_p1
+name: idp_tm_1792655668599_t03imp
+spec: {parent: 'group:account.idp_tm_1792655668599_o1.idp_tm_1792655668599_p2/idp_tm_1792655668599_t03sib'}
