@@ -3,7 +3,7 @@ kind: Component
 type: service
 identifier: idp_tm_1793554230749_t13git
 name: idp_tm_1793554230749_t13git
-owner: group:account/idp_tm_1793554230749_ta
+owner: group:account.idp_tm_manual_1793552864_o1.idp_tm_manual_1793552864_p1/idp_tm_1793554230749_tp
 orgIdentifier: idp_tm_manual_1793552864_o1
 projectIdentifier: idp_tm_manual_1793552864_p1
 spec:
