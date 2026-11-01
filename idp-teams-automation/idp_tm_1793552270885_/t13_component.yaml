@@ -1,0 +1,43 @@
+apiVersion: harness.io/v1
+kind: Component
+type: service
+identifier: idp_tm_1793552270885_t13git
+name: idp_tm_1793552270885_t13git
+owner: group:account/idp_tm_1793552270885_ta
+orgIdentifier: idp_tm_1793552270885_o1
+projectIdentifier: idp_tm_1793552270885_p1
+spec:
+  lifecycle: experimental
+  dependsOn:
+  - resource:artists-db
+  apiConsumedBy:
+  - component:www-artist
+metadata:
+  description: Artist Lookup
+  annotations:
+    backstage.io/linguist: https://github.com/backstage/backstage/tree/master/plugins/playlist
+  links:
+  - url: https://example.com/user
+    title: Examples Users
+    icon: user
+  - url: https://example.com/group
+    title: Example Group
+    icon: group
+  - url: https://example.com/cloud
+    title: Link with Cloud Icon
+    icon: cloud
+  - url: https://example.com/dashboard
+    title: Dashboard
+    icon: dashboard
+  - url: https://example.com/help
+    title: Support
+    icon: help
+  - url: https://example.com/web
+    title: Website
+    icon: web
+  - url: https://example.com/alert
+    title: Alerts
+    icon: alert
+  tags:
+  - java
+  - data
