@@ -3,7 +3,7 @@ kind: Component
 type: service
 identifier: testcomponentingit
 name: test-component-in-git
-owner: group:account/_account_all_users
+owner: group:account.testautoidp.testautoidp/testteam
 orgIdentifier: testautoidp
 projectIdentifier: testautoidp
 spec:
