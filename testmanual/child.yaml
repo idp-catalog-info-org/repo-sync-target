@@ -8,5 +8,5 @@ orgIdentifier: idp_tm_manual_1793552864_o1
 projectIdentifier: idp_tm_manual_1793552864_p1
 spec:
   lifecycle: ''
-  parent: group:account.idp_tm_manual_1793552864_o1.idp_tm_manual_1793552864_p2/sib
+  parent: group:account.idp_tm_manual_1793552864_o1.idp_tm_manual_1793552864_p1/sib
   members: []
